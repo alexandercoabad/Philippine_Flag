@@ -1,10 +1,40 @@
+
+
+
+
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# PILIPINAS flag in DVD-like screensaver and 7-segment display with smoother wave!
 
-- [Read the documentation for project](docs/info.md)
+<img width="1286" height="668" alt="image" src="https://github.com/user-attachments/assets/2925ea09-e339-4478-a734-5da456f865b8" />
 
-## What is Tiny Tapeout?
+
+old: <img width="1308" height="734" alt="image" src="https://github.com/user-attachments/assets/0a40c82e-47e6-472e-9fe3-cb1022d81699" />
+
+
+
+
+
+https://github.com/user-attachments/assets/d475b297-69e0-4e9f-8b2e-2463b8746662
+
+
+
+
+
+Run it in your browser by clicking this link: https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/PhilippineFlag_waving
+
+## Layout
+
+
+<img width="463" height="639" alt="2D_flag" src="https://github.com/user-attachments/assets/a0d43f09-675b-421f-a023-64df823658f6" />
+
+<img width="463" height="639" alt="image" src="https://github.com/user-attachments/assets/56e3fa2d-47a7-4f23-ae4a-199e4c429c39" />
+
+<img width="463" height="639" alt="Screenshot 2026-06-24 at 1 52 14 PM" src="https://github.com/user-attachments/assets/2322a187-0133-40a5-bcbd-c10980016852" />
+
+
+Link to 3D viewer: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/PhilippineFlag_waving/tinytapeout.oas&pdk=sky130A
+
 
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
 
