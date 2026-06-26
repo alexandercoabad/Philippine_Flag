@@ -281,4 +281,3 @@ module tt_um_combined (
     wire _unused_ok = &{ena, ui_in, uio_in};
 
 endmodule
-
